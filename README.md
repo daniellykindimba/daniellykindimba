@@ -41,8 +41,8 @@ Most of my work focuses on building systems that empower communities, promote tr
 
 ### 🚀 Let's Connect
 
-- 🌐 [LinkedIn]([https://linkedin.com/in/danielkindimba](https://www.linkedin.com/in/daniel-kindimba-51445a10a/))
-- 📨 Email: daniel.kindimba@gmail.com *(or preferred email)*
+- 🌐 [LinkedIn] https://www.linkedin.com/in/daniel-kindimba-51445a10a/
+- 📨 Email: daniel.kindimba@gmail.com
 
 > "Code with a purpose, deploy with impact."
 
